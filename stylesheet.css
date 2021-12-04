@@ -6,4 +6,11 @@
 
 .header {
     background-color: #FEEAB1;
+    display: flex;
+    justify-content: center;
+    padding: 20px
+}
+
+.header h1 {
+    text-transform: uppercase;
 }
