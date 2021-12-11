@@ -49,6 +49,7 @@ a {
 /* changed paragraph text color */
 p {
     font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 /* Styling for banner image */
 .hero {
