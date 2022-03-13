@@ -93,16 +93,6 @@ p {
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -136,7 +126,7 @@ p {
     max-width: 150px;
 }
 /* styling for search-engine-optimization text and layout in hero */
-.search-engine-optimization {
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -164,7 +154,7 @@ p {
     color: #ffffff;
 }
 /* styling for image in sections in main */
-.search-engine-optimization img {
+#search-engine-optimization img {
     max-height: 200px;
 }
 /* styling for online-reputation-management in main */

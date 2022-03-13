@@ -14,6 +14,6 @@ I’ve refactored and improved accessibility of existing code with the aim to en
 
 
 -	# The URL of the deployed application
-    https://yutthana00.github.io/mini-project/
+    https://yutthana00.github.io/mini-project/ 
 -	# The URL of the Github repository
     https://github.com/Yutthana00/mini-project
