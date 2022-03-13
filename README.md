@@ -1,10 +1,10 @@
 # Horiseon Refactoring
 
 ### URL of the deployed application:
-    https://yutthana00.github.io/First-Project-Horiseon-Landing-page/
+     https://yutthana00.github.io/First-Project-Horiseon/
 
 ### URL of the Github repository:
-    https://github.com/Yutthana00/mini-project
+    https://github.com/Yutthana00/First-Project-Horiseon-Landing-page 
 
 ###  Brief description:
 
