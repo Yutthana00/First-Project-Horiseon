@@ -34,5 +34,23 @@
 
 <br>
 
+### Nav bar first link fixed:
 
+<br>
+
+https://user-images.githubusercontent.com/95193763/158045322-436189ff-9203-4f9b-a7b8-fbfae51a789a.mov
+
+<br>
+
+### All images are now displaying in the correct postion.
+
+<img width="1713" alt="Screenshot 2022-03-13 at 04 09 09" src="https://user-images.githubusercontent.com/95193763/158045329-ae682ac3-1a3d-4be5-8428-7eb6062a6d11.png">
+
+
+<br>
+<br>
+
+### Background image is in place.
+
+<img width="1713" alt="Screenshot 2022-03-13 at 04 08 59" src="https://user-images.githubusercontent.com/95193763/158045331-12d65ae0-d7dd-40f2-846b-f29092c49db7.png">
 
