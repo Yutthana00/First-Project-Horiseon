@@ -1,14 +1,14 @@
-/*Universal selector*/
+/* Universal selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/*body styling element */
+/* body styling element */
 body {
     background-color: #d9dcd6;
 }
-/*Header styling*/
+/* Header styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
